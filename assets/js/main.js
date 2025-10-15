@@ -5,13 +5,14 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+// Simple image slider for hero section
 (function() {
   "use strict";
 
   /**
    * Header toggle
    */
+  // Simple image slider for hero section
   const headerToggleBtn = document.querySelector('.header-toggle');
 
   function headerToggle() {
